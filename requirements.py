@@ -1,3 +1,1 @@
-streamlit
-pandas
-plotly>=5.0.0
+plotly==5.24.1
